@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://en.technomedia.in/how-to-save-money-on-car-insurance/?utm_source=viki&utm_medium=SS_pro&utm_campaign=SS_pro`
+					``
 				}`,
 			},
 		};
